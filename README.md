@@ -6,4 +6,5 @@ The course will give an overview of the Natural Language Processing techniques i
 
 # Course Syllabus
 
-[Here](https://docs.google.com/document/d/1IeGjr4HP5m_QAlvVDkm4mIIeDNWsesu7/edit?usp=sharing&ouid=112753638989620120093&rtpof=true&sd=true)
+[Here](https://github.com/ekapolc/nlp_2023/blob/main/NLPcoursesyllabus2022.pdf)
+
